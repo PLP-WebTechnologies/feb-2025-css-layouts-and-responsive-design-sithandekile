@@ -1,3 +1,4 @@
+
 .navbar{
   display:flex;
   justify-content: space-between;
@@ -25,7 +26,8 @@ transition: 3ms;
   color: #960596;
 
 }
-body{
+html{
+  scroll-behavior: smooth;
   width: 100%;
   font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
   font-size: 1.2rem;
